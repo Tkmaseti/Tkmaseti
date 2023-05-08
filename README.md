@@ -61,7 +61,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Tks/Tks/blob/output/snake.svg" alt="Snake animation" />
-
-###
